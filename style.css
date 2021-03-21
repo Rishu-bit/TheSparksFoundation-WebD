@@ -1,5 +1,5 @@
 #bg{
-    background-image: linear-gradient(rgba(36, 31, 31, 0.75),rgba(36, 31, 31, 0.75)), url('../10724012.jpg');;
+    background-image: linear-gradient(rgba(36, 31, 31, 0.75),rgba(36, 31, 31, 0.75)), url('./10724012.jpg');;
     height: 97%;
     width: 100%;
 }
